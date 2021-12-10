@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "heroku": "^7.59.2",
     "json": "^11.0.0",
     "server": "^1.0.37"
   },
@@ -7,7 +8,6 @@
   "description": "workshop de crentine et naim",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
