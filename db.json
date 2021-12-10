@@ -1,0 +1,32 @@
+{
+    "Music":[
+
+        {
+            "id":0,
+            "name":"50 pourcent",
+            "author":"Orelsan",
+            "youtube":"https://www.youtube.com/watch?v=2bjk26RwjyU",
+            "style":"rap",
+            "realeaseDate":"2018",
+            "thumbnail":"https://m.media-amazon.com/images/I/61IbJXn+oLL._SS500_.jpg"
+        },
+        {
+            "id":1,
+            "name":"Rebeu Fragile",
+            "author":"ico",
+            "youtube":"https://www.youtube.com/watch?v=rUjcZiSS-C8",
+            "style":"rap",
+            "realeaseDate":"2017",
+            "thumbnail":"https://m.media-amazon.com/images/I/51ovfJwz7HL._SS500_.jpg"
+        },
+        {
+            "id":2,
+            "name":"Rebeu Fragile",
+            "author":"ico",
+            "youtube":"https://www.youtube.com/watch?v=rUjcZiSS-C8",
+            "style":"rap",
+            "realeaseDate":"2017",
+            "thumbnail":"https://m.media-amazon.com/images/I/51ovfJwz7HL._SS500_.jpg"
+        }
+    ]
+}
